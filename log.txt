@@ -1,0 +1,16 @@
+
+=============================================================================================================
+| DEBUG        | 2026-04-02 21:16:14  | ...    ../src/app/app.c:15 | Created Default App Config!
+| DEBUG        | 2026-04-02 21:16:14  | ...    ../src/app/app.c:54 | Initialized App and GLFW!
+
+=============================================================================================================
+| DEBUG        | 2026-04-12 11:16:25  | ...    ../src/app/app.c:17 | Created Default App Config!
+| DEBUG        | 2026-04-12 11:16:25  | ...    ../src/app/app.c:58 | Initialized App and GLFW!
+| DEBUG        | 2026-04-12 11:16:27  | ...    ../src/gfx/gfx.c:82 | Made WGPU Instance Successfully!
+| DEBUG        | 2026-04-12 11:16:30  | ...    ../src/app/app.c:71 | Freed App Resources (hopefully)!
+
+=============================================================================================================
+| DEBUG        | 2026-04-12 11:16:39  | ...    ../src/app/app.c:17 | Created Default App Config!
+| DEBUG        | 2026-04-12 11:16:40  | ...    ../src/app/app.c:58 | Initialized App and GLFW!
+| DEBUG        | 2026-04-12 11:16:40  | ...    ../src/gfx/gfx.c:82 | Made WGPU Instance Successfully!
+| DEBUG        | 2026-04-12 11:16:42  | ...    ../src/app/app.c:71 | Freed App Resources (hopefully)!

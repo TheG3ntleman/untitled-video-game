@@ -32,6 +32,46 @@ target
 
 #/target
 
+# C / C++
+*.o
+*.obj
+*.ko
+*.elf
+*.ilk
+*.map
+*.exp
+*.idb
+*.dSYM/
+*.su
+*.a
+*.la
+*.lib
+*.lo
+*.dll
+*.so
+*.so.*
+*.dylib
+*.exe
+*.out
+*.app
+
+# Build directories
+build/
+builddir/
+bin/
+
+# Meson / Ninja
+.mesonpy-native-file.ini
+.mesonpy-cross-file.ini
+meson-logs/
+meson-private/
+.ninja_deps
+.ninja_log
+compile_commands.json
+
+# Local tooling
+.codex
+
 
 # Added by cargo
 #
